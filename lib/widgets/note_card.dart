@@ -138,20 +138,4 @@ class _NoteCardState extends State<NoteCard> with SingleTickerProviderStateMixin
   }
 }
 
-/// AnimatedBuilder yerine AnimatedBuilder kullanarak
-class AnimatedBuilder extends AnimatedWidget {
-  final Widget Function(BuildContext, Widget?) builder;
-  final Widget? child;
 
-  const AnimatedBuilder({
-    super.key,
-    required super.listenable,
-    required this.builder,
-    this.child,
-  });
-
-  @override
-  Widget build(BuildContext context) {
-    return builder(context, child);
-  }
-}
