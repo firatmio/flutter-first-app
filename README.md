@@ -1,5 +1,10 @@
 <div align="center">
 
+# Cartoon Notes
+**A playful note-taking app with a Cartoon Network-inspired UI.**
+
+Bold outlines, vibrant colors, bouncy animations — note-taking has never been this fun.
+
 <!-- Badges -->
 <p>
   <img src="https://img.shields.io/badge/Flutter-3.11+-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -13,11 +18,8 @@
   <img src="https://img.shields.io/badge/Style-Cartoon%20Network-ff6b9d?style=flat-square" alt="Style" />
 </p>
 
-# Cartoon Notes
 
-**A playful note-taking app with a Cartoon Network-inspired UI.**
 
-Bold outlines, vibrant colors, bouncy animations — note-taking has never been this fun.
 
 </div>
 
